@@ -1,1 +1,1 @@
-jxxghp/moviepilot:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/moviepilot:latest
+xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/alist:latest
