@@ -1,2 +1,4 @@
 whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/qinglong:latest
-xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/alist:latest
+xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/xiaoya:latest
+xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/alist:latest
+jxxghp/moviepilot:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/moviepilot:latest
