@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/alist:latest
+whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/qinglong:latest
