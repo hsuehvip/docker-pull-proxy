@@ -2,3 +2,4 @@ whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/qinglong:lates
 xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/xiaoya:latest
 xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/alist:latest
 jxxghp/moviepilot:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/moviepilot:latest
+hanxi/xiaomusic:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/xiaomusic:latest
