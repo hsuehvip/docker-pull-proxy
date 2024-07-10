@@ -3,3 +3,6 @@ xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/xiaoya:latest
 xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/alist:latest
 jxxghp/moviepilot:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/moviepilot:latest
 hanxi/xiaomusic:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/xiaomusic:latest
+postgres:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/postgres:latest
+superng6/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/qbittorrent:latest
+vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/vaultwarden:latest
