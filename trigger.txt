@@ -6,3 +6,5 @@ hanxi/xiaomusic:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/xiaomusic:late
 postgres:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/postgres:latest
 superng6/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/qbittorrent:latest
 vaultwarden/server:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/vaultwarden:latest
+gdy666/lucky:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/lucky:latest
+hslr/sun-panel:latest registry.cn-hangzhou.aliyuncs.com/hsuehvip/sun-panel:latest
